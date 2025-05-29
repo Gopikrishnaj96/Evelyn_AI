@@ -7,8 +7,7 @@ web-based chat interface powered by Python's Eel framework.
 Evelyn integrates OpenAI Whisper for speech recognition, a CNN-based facial emotion detection model for analyzing video input, and a DistilBERT-based NLP model for classifying 
 sentiment from text. It also retains conversation context using ChromaDB and SentenceTransformers to provide more coherent and memory-aware interactions.
 
-You can trigger Evelyn with a hotword like "Jarvis" or interact via voice or typed input. The assistant can launch applications, play YouTube videos, send WhatsApp messages, and 
-handle general queries with emotionally aware dialogue generated through GPT-4o.
+You can trigger using the Evelyn hotword(like Alexa) or interact via mic button or typed input. The assistant can launch applications, play YouTube videos, send WhatsApp messages, and  handle general queries with emotionally aware dialogue generated through an LLM transformer.
 
 ---
 ![image](https://github.com/user-attachments/assets/0ace1bdd-1064-406d-b565-06dd92688c16)![image](https://github.com/user-attachments/assets/89ebf1c3-5db1-4607-9467-8518ce43de9b)
