@@ -1,0 +1,15 @@
+/envjarvis
+contacts.csv
+jarvis.db
+/engine/__pycache__
+/engine/cookies.json
+/eve.db
+
+/chroma.sqlite3
+__pycache__/
+*.sqlite3
+*.h5
+/rag_memory
+output_audio.wav
+output.mp4
+engine/evelyn_hotword.ppn
