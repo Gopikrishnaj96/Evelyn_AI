@@ -23,8 +23,7 @@ handle general queries with emotionally aware dialogue generated through GPT-4o.
 - 🧠 **Context-Aware Conversations** using ChromaDB and sentence embeddings for memory recall.
 - 🗣️ **Voice Output** with pyttsx3 for spoken responses.
 - 🧩 **Command Execution**: Open apps, play music on YouTube, send WhatsApp messages or initiate calls.
-- 🔥 **Hotword Activation** using Porcupine (e.g., “Jarvis”).
-
+- 🔥 **Hotword Activation** using Porcupine (Evelyn).
 ---
 
 ## 🚀 How to Run
