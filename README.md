@@ -11,7 +11,8 @@ You can trigger Evelyn with a hotword like "Jarvis" or interact via voice or typ
 handle general queries with emotionally aware dialogue generated through GPT-4o.
 
 ---
-![image](https://github.com/user-attachments/assets/0ace1bdd-1064-406d-b565-06dd92688c16)
+![image](https://github.com/user-attachments/assets/0ace1bdd-1064-406d-b565-06dd92688c16)![image](https://github.com/user-attachments/assets/89ebf1c3-5db1-4607-9467-8518ce43de9b)
+
 
 
 ## 🌟 Features
