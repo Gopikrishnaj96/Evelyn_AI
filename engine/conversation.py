@@ -9,7 +9,7 @@ import os
 
 #chat bot
 
-openai.api_key = "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"
+openai.api_key = your_api_key
 client = openai
 
 """system_prompt = (
