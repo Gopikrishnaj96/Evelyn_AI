@@ -10,6 +10,7 @@ sentiment from text. It also retains conversation context using ChromaDB and Sen
 You can trigger using the Evelyn hotword(like Alexa) or interact via mic button or typed input. The assistant can launch applications, play YouTube videos, send WhatsApp messages, and  handle general queries with emotionally aware dialogue generated through an LLM transformer.
 
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b6c7e0b0-2944-484b-95ea-b043d74ed876" />
 
 
 ## 🌟 Features
