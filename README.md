@@ -22,6 +22,8 @@ You can trigger using the Evelyn hotword(like Alexa) or interact via mic button 
 - 🗣️ **Voice Output** with pyttsx3 for spoken responses.
 - 🧩 **Command Execution**: Open apps, play music on YouTube, send WhatsApp messages or initiate calls.
 - 🔥 **Hotword Activation** using Porcupine (Evelyn).
+
+  
 ---
 
 ## 🚀 How to Run
